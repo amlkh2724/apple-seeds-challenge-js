@@ -39,8 +39,6 @@ function nb_year(pO, percent, aug, p) {
         count++
         pO = pO * percent + aug
 
-
-
     }
     return count
 
