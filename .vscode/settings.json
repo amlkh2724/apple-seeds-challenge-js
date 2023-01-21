@@ -1,6 +1,10 @@
 {
     "cSpell.words": [
         "abtoword",
+        "containstrings",
+        "countdub",
+        "Dublicates",
+        "isogram",
         "newstr",
         "repeatstr",
         "sortarray"
