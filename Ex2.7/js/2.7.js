@@ -26,4 +26,4 @@ const basicOp = (operator, num1, num2) => {
     }
 
 }
-console.log(basicOp('-', 15, 18));
+console.log(basicOp('-', 18, 13));

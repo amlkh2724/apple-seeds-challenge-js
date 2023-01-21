@@ -21,10 +21,17 @@
 // Testing: [1, 0, 1, 1] ==> 11
 
 // However, the arrays can have varying lengths, not just limited to 4.
-const arr = [1, 0, 1, 1];
-const parseArray = arr => {
-    const binaryString = arr.join("");
-    // console.log(binaryString);
-    return parseInt(binaryString, 2);
-};
-console.log(parseArray(arr));
+
+
+
+
+
+
+
+// const arr = [1, 0, 1, 1];
+// const parseArray = arr => {
+//     const binaryString = arr.join("");
+//     console.log(binaryString);
+//     return parseInt(binaryString, 2);
+// };
+// console.log(parseArray(arr));

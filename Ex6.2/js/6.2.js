@@ -1,5 +1,8 @@
 // do it again
 
+
+
+// count double characters
 function dubclate(string) {
     var list = {};
     for (var i = 0; i < string.length; i++) {
